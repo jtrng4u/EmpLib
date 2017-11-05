@@ -6,6 +6,6 @@ public class EmpService {
 	}
 	
 	public Float getSalary() {
-		return 4000.00f;
+		return 4500.00f;
 	}
 }
